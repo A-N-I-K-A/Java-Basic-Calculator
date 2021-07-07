@@ -1,1 +1,1 @@
-# Java-Basic-Caculator
+# Java-Basic-Calculator
